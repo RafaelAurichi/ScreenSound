@@ -4,12 +4,12 @@ A music register in a C# console app
 # Prerequisites
 Before you begin, ensure that you have the following:
  
-- Git: Make sure Git is installed on your machine. You can download Git from the official website: https://git-scm.com/downloads.
+- ````Git````: Make sure Git is installed on your machine. You can download ````Git```` from the official website: https://git-scm.com/downloads.
  
-- Visual Studio: Install Visual Studio, an IDE specifically designed for C# development. You can download the Community edition (which is free for individual developers) from the official website: https://visualstudio.microsoft.com/downloads.
+- ````Visual Studio````: Install Visual Studio, an IDE specifically designed for ````C#```` development. You can download the Community edition (which is free for individual developers) from the official website: https://visualstudio.microsoft.com/downloads.
  
 ## Downloading and Opening the C# Repository
-Follow the steps below to download and open a C# repository from GitHub:
+Follow the steps below to download and open a ````C#```` repository from GitHub:
  
 ### Clone the Repository:
  
