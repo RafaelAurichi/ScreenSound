@@ -8,7 +8,7 @@ Before you begin, ensure that you have the following:
  
 - ````Visual Studio````: Install Visual Studio, an IDE specifically designed for ````C#```` development. You can download the Community edition (which is free for individual developers) from the official website: https://visualstudio.microsoft.com/downloads.
  
-## Downloading and Opening the C# Repository
+# Downloading and Opening the C# Repository
 Follow the steps below to download and open a ````C#```` repository from GitHub:
  
 ### Clone the Repository:
